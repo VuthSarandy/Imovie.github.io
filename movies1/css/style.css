@@ -1,0 +1,32 @@
+*{
+    font-family: 'Noto Serif Khmer', serif;
+}
+a:link, a:visited{
+    color: rgb(255, 255, 255);
+}
+.custom-bg{
+    background-image: linear-gradient(to right, rgba(31.5, 10.5, 10.5, 0.5) calc((50vw - 170px) - 340px), rgba(31.5, 10.5, 10.5, 0.84) 50%, rgba(31.5, 10.5, 10.5, 0.84) 100%), url("https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg");
+}
+.detail{
+    padding: 20px;
+}
+.detail img{
+    border-radius: 20px;
+}
+.movie-title{
+    color: white;
+    font-weight: bolder;
+}
+body{
+    background-color: #000000;
+}
+.card-body{
+    background: #201f1f;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    
+}
+
+.mb-3
+{
+    color: white;
+}
